@@ -1,10 +1,12 @@
 I will not spend much time on explaining YOLOV1 paper or architecture, it is quite thorougly covered by several articles online.
 Some are here: 
 Originbal Paper: https://arxiv.org/pdf/1506.02640
+
 Other good sources: https://www.youtube.com/watch?v=9s_FpMpdYW8
+
                     https://www.youtube.com/watch?v=n9_XyCGr-MI
 
-This repository is designed to help you quickly set up a simple YOLO model. It includes only four files:
+This repository is designed to help you quickly set up a simple YOLO model. It includes only 5 files:
 
 1. main.py: This script serves as the entry point and is responsible for initializing the model, loss function, and data loader.
 
@@ -14,7 +16,7 @@ This repository is designed to help you quickly set up a simple YOLO model. It i
 
 4. utils.py: This file provides various helper functions, such as file reading and converting bounding box coordinates into the proper format. It's nothing extravagant, just some handy utilities.
 
-5. 'debug' folder: A sample folder with 10 images and labels to show you how the script expects the images and labels to be.
+5. 'debug' folder: Unzip the zip file. A sample folder with 10 images and labels to show you how the script expects the images and labels to be.
 
 
 With these files, you'll be on your way to running a YOLO model in no time!
