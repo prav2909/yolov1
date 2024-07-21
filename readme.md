@@ -2,9 +2,7 @@ I will not spend much time on explaining YOLOV1 paper or architecture, it is qui
 Some are here: 
 Originbal Paper: https://arxiv.org/pdf/1506.02640
 
-Other good sources: https://www.youtube.com/watch?v=9s_FpMpdYW8
-
-                    https://www.youtube.com/watch?v=n9_XyCGr-MI
+Other good sources: https://www.youtube.com/watch?v=9s_FpMpdYW8   https://www.youtube.com/watch?v=n9_XyCGr-MI
 
 This repository is designed to help you quickly set up a simple YOLO model. It includes only 5 files:
 
