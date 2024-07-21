@@ -86,7 +86,7 @@ def train(
 
 def main():
 	# Define the directory path for the dataset
-	data_dir = 'D:/KITTI_DS/'
+	data_dir = '/debug/'
 
 	# Hyperparameters for training
 	BATCH_SIZE = 16  # Batch size for training
